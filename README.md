@@ -68,7 +68,9 @@ root/
 │
 ├── data/
 │   ├── input_data.csv          # CSV file containing original flight data
+
 │   └── flights.csv             # CSV file containing sorted and updated flight data
+
 │
 └── src/
 │    ── main.py                 # Main entry point to start the FastAPI app
